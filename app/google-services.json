@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "529629430102",
+    "firebase_url": "https://popetest-2b180.firebaseio.com",
+    "project_id": "popetest-2b180",
+    "storage_bucket": "popetest-2b180.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:529629430102:android:2e3a12ff28fcd5a2c3d6f7",
+        "android_client_info": {
+          "package_name": "cg.tellus4leyam.firebase_test"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "529629430102-mce196j81e1aane818pk3vgfo2kmorro.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "cg.tellus4leyam.firebase_test",
+            "certificate_hash": "bb37632d02eed62a2632db16b898fe43ce132f1b"
+          }
+        },
+        {
+          "client_id": "529629430102-e2m7juq257qal25424789vc96hrj3i7g.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyARH2pmt4BzKUZ1_LSEZZsKnbL4w3pAQnI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "529629430102-e2m7juq257qal25424789vc96hrj3i7g.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
